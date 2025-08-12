@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940394322088",
+    "project_id": "elitepadel-eec6b",
+    "storage_bucket": "elitepadel-eec6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940394322088:android:0061bce822cd9d07930a9d",
+        "android_client_info": {
+          "package_name": "com.elitepadel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46bm_sEGK-n9JphiIEXOM_qj1j73wZ-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940394322088:android:61b5517d59919f18930a9d",
+        "android_client_info": {
+          "package_name": "com.example.elitepadelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46bm_sEGK-n9JphiIEXOM_qj1j73wZ-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
